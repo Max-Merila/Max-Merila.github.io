@@ -1,13 +1,13 @@
 body{
-  background-color: #44444;
-  color: black;
+  background-color: #88bdbc;
+  color: #6e6658;
   font-family: arial, helvetica, sans-serif;
   margin: 10% 20%;
 }
 
 .exp-header {
   text-transform: uppercase;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-  background-color: gray;
+  border-top: 4px solid #112d32;
+  border-bottom: 4px solid #112d32;
+  background-color: #254e58;
 }
