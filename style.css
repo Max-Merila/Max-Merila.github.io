@@ -1,1 +1,29 @@
+body{
+    background-color: #88bdbc;
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+    margin: 10% 20%;
+  }
 
+  .nav{
+    background-color: #254e58 ;
+    color: white;
+    padding: 15px;
+    border: 4px solid #112d32;
+    margin left: 40px;
+    
+  }
+  .nav2{
+    background-color: #254e58 ;
+    color: white;
+    padding: 15px;
+    border: 4px solid #112d32;
+    margin left: 40px;
+
+    
+  }
+  .exp-header {
+    text-transform: uppercase;
+    border: 4px solid #112d32;
+    background-color: #254e58;
+  }
