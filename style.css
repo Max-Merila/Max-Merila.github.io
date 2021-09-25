@@ -4,23 +4,37 @@ body{
     font-family: arial, helvetica, sans-serif;
     margin: 10% 20%;
   }
+  h4{
+    font-size: 30pt;
+  }
+h5{
+  font-size: 20pt;
+}
+h6{
+  font-size: 15pt;
+}
+.flex-container{
+ display:flex; 
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: baseline;
+}
 
   .nav{
     background-color: #254e58 ;
     color: white;
     padding: 15px;
     border: 4px solid #112d32;
-    margin left: 40px;
-    
+  }
+  .social_logo{
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
   .nav2{
     background-color: #254e58 ;
     color: white;
     padding: 15px;
     border: 4px solid #112d32;
-    margin left: 40px;
-
-    
   }
   .exp-header {
     text-transform: uppercase;
